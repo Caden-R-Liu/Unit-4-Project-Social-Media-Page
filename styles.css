@@ -1,0 +1,73 @@
+.nav-bar {
+    background-color: grey;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}
+
+.search-bar {
+    border: 2px solid;
+    padding: 5px;
+}
+
+.profile-pic {
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    border: 2px solid;
+    margin-left: 10px;
+}
+
+.description {
+    display: flex;
+    background-color: grey;
+    padding: 5px;
+}
+
+.profile-img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+}
+
+.hi {
+    text-align: center;
+    margin: 15px;
+    border: 2px solid;
+    width: 800px;
+    padding-top: 30px;
+}
+
+.info-bar {
+    display: flex;
+}
+
+.header {
+    border: 2px solid;
+    display: flex;
+    text-align: left;
+}
+
+.friends {
+    width: 50%;
+}
+
+.images-list {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: grey;
+}
+
+.images-list img {
+    border: 2px solid;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.sections {
+    border: 2px solid;
+    padding: 5px;
+    background-color: grey;
+}
